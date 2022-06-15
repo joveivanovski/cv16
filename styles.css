@@ -1,0 +1,126 @@
+body {
+  overflow-x: hidden;
+}
+
+/* Table */
+.plan, .simple {
+  color: white;
+  font-family: "Montserrat";
+}
+#head {
+  background-color: #2f4f4f;
+  color: white;
+}
+.first-container {
+  padding: 0% 10%;
+}
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+}
+.nav-item {
+  padding: 0 18px;
+  font-family: "Montserrat";
+}
+
+#table {
+  text-align: center;
+  padding: 100px;
+  background-color: pink;
+}
+
+.pricing-column {
+  text-align: center;
+  padding: 7% 3%;
+}
+/* Middle */
+#middle {
+  text-align: center;
+  padding: 6% 2%;
+}
+.travel-images {
+  width: 250px;
+  margin: 5% 5%;
+}
+.travel-button {
+  margin: 5% 11%;
+}
+
+.places{
+
+  text-align: center;
+  padding-bottom: 4%;
+  font-size: 3.5rem;
+  font-family: "Montserrat"
+}
+/* Explanation */
+
+#explane {
+  background-color: #f08080;
+  color: white;
+  padding: 100px;
+  text-align: center;
+}
+.budapest {
+  float: left;
+  width: 400px;
+  padding-bottom: 50px;
+}
+.friends {
+  position: relative;
+  top: 130px;
+  width: 150px;
+  margin: 3% 3%;
+}
+.visited-places {
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  padding-bottom: 7%;
+}
+.first-started {
+  margin: 5% 7% 0 0;
+  font-family: "Montserrat";
+  float: right;
+}
+.travel-photos {
+  padding-bottom: 50px;
+}
+#links {
+  padding: 100px;
+  text-align: center;
+}
+.travel-way {
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  line-height: 1.5;
+  padding: 7%;
+}
+.apply {
+  margin: 1%;
+}
+
+/* Footer */
+
+#footer {
+  text-align: center;
+  padding: 5% 15%;
+  background-color: #ff7f50;
+  color: white;
+}
+.social-icons {
+  margin: 20px 10px;
+}
+.Copyright {
+  font-size: 1.2rem;
+}
+@media (max-width: 900px) {
+  .first-sarted {
+    
+  }
+  .travel-button {
+    margin: 5% 17%;
+  }
+}
+@media (max-width: 900px) {
+
+}
